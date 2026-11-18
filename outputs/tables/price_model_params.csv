@@ -1,0 +1,12 @@
+,0
+mu_d (mean log daily level),0.10125504515701264
+phi_d (daily persistence),0.6903727122379791
+half_life_daily_level_days,1.8707231058467335
+phi_h (hourly mean reversion),0.7332934319067467
+half_life_hourly_noise_hours,2.234449738769116
+spike_threshold (relative to seasonal),2.3738549300390197
+up_episodes_per_year,123.7179286287555
+down_episodes_per_year,11.870593371312674
+median_up_episode_hours,1.0
+longest_up_episode_hours,178.0
+largest_up_excess_$/MWh,8994.049027601544

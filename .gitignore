@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.pkl
+data/processed/synthetic_*
+outputs/figures/synthetic_*
+outputs/tables/synthetic_*
+outputs/logs/
+outputs/synthetic_RESULTS.md
+.DS_Store

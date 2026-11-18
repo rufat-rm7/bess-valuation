@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11        # includes the HiGHS LP/MILP solver used by the optimizer
+matplotlib>=3.8
+gridstatus>=0.27   # downloads ERCOT market data
+openpyxl>=3.1      # reads ERCOT's yearly Excel price files
+pytest>=7.4

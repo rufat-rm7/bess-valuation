@@ -1,0 +1,2 @@
+0.5996
+day_ahead_forecast

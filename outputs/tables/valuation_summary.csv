@@ -1,0 +1,10 @@
+,value
+capex_$/kWh,300.0
+expected_npv_$M,-34.9087
+npv_p5_$M,-37.9466
+npv_cvar5_$M,-38.6427
+prob_npv_negative,1.0
+irr_median,-0.0436
+irr_p5,-0.0578
+irr_p95,-0.0302
+breakeven_capex_$/kWh,125.4566

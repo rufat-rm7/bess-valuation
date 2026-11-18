@@ -1,0 +1,6 @@
+,profit_per_year,profit_per_kw_year,cycles_per_year,paid_at,capture_rate
+perfect_foresight,8068094.1671,80.6809,324.8164,real-time,1.0
+persistence,2878666.6506,28.7867,324.7473,real-time,0.3568
+weekly_median,2859774.9996,28.5977,244.6228,real-time,0.3545
+day_ahead_market,6017653.6101,60.1765,321.4468,day-ahead,0.7459
+day_ahead_forecast,4837417.2069,48.3742,321.4468,real-time,0.5996
